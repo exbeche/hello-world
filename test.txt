@@ -1,3 +1,6 @@
 edited in github editor
 
 linia dodana lokalnie 
+
+to jest kolejna linia dodana lokalnie
+
